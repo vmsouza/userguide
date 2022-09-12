@@ -15,7 +15,7 @@ Install apache and php.
 
 Clone this project:
 
-To get the latest stable version of Smarty use:
+To get the latest stable version:
 ```bash
 git clone git@github.com:vmsouza/userguide.git
 ````
