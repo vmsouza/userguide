@@ -25,7 +25,21 @@ Access userguide folder and run:
 ```bash
 $ cd userguide
 $ git clone https://github.com/smarty-php/smarty.git
+$ mkdir templates_c
+$ chmod a+rwx templates_c
 ````
+
+## Manage settings
+
+Edit config.php to change default settings.
+
+## Manage you menu items
+
+Edit menus.php to change menu items.
+
+## Manage templates
+
+Edit templates locate inside templates folder.
 
 ## See in action
 
