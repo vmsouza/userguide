@@ -2,7 +2,7 @@
 
 This is a very simple application that allows you to quickly create and modify your product's user manual.
 
-Written in PHP, it provides an interface for creating pages based on CSS style sheets using Smarty PHP.
+Written in PHP, it provides an responsible interface for creating pages based on CSS style sheets using Smarty PHP.
 
 ## Requirements
 
